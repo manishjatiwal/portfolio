@@ -8,6 +8,9 @@ const config: Config = {
   ],
   theme: {
     extend: {
+      transitionProperty: {
+        h: 'height'
+      },
       fontFamily: {
         sans: 'var(--font-me)'
       },

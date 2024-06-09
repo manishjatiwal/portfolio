@@ -1,10 +1,10 @@
 import type { Metadata } from 'next'
-import { Poppins as Me } from 'next/font/google'
+import { Signika_Negative as Me } from 'next/font/google'
 import './globals.css'
 
 const font = Me({
   subsets: ['latin'],
-  weight: ['400', '500', '700'],
+  weight: ['400', '700'],
   variable: '--font-me'
 })
 
