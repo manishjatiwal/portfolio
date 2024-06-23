@@ -4,8 +4,8 @@ export default function Home() {
   return (
     <main className='relative z-10'>
       <section className='m-auto mt-14 max-w-[1280px] text-lg'>
-        <div className='mb-6 inline-block rounded text-5xl text-cyan-800'>
-          Hey, I&#39;m Manish
+        <div className='mb-6 inline-block rounded text-5xl'>
+          Hey, I&#39;m <span className='text-cyan-800'>Manish</span>
         </div>
         <br />
         <div className='max-w-[760px] opacity-60'>
