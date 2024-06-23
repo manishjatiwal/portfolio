@@ -12,9 +12,9 @@ export default function Home() {
           Web-Developer with a passion for crafting Elegent Web Solutions. With
           over 7 years of experience in full stack development, I specialize in
           creating responsive and performant web applications. My journey has
-          taken me through various exciting projects and roles, where I've honed
-          my skills in technologies like React, Node.js, and GoLang. Let's build
-          something amazing together!
+          taken me through various exciting projects and roles, where I&#39;ve
+          honed my skills in technologies like React, Node.js, and GoLang.
+          Let&#39;s build something amazing together!
         </div>
         <a
           className='my-7 inline-block rounded bg-cyan-800 px-5 py-2 text-white'
